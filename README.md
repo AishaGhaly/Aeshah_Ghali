@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AishaGhaly
-- 👀 I’m interested in ...AI and Data Science 
-- 🌱 I’m CS student
+
 
 
 <!---
